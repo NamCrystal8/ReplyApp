@@ -47,6 +47,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import com.example.reply.R
 import com.example.reply.data.Email
 import com.example.reply.data.local.LocalAccountsDataProvider
+import com.example.reply.ui.utils.ReplyContentType
 
 @Composable
 fun ReplyListOnlyContent(
